@@ -129,7 +129,7 @@ nav a{
 }
 .project-item:hover{
     transform:translateY(-5px);
-    box-shadow:0 0 15px rgba(12, 1, 5, 0.4);
+    box-shadow:0 0 15px rgba(176, 172, 174, 0.4);
 }
 
 .project-link{
